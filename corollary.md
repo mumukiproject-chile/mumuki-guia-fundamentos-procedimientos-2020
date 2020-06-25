@@ -1,3 +1,3 @@
 ¡Felicitaciones! :tada:
 
-En esta lección aprendimos como los **parámetros** facilitan nuestra tarea permitiéndonos crear procedimientos más genéricos. Cuidado al invocar estos procedimientos, ¡acordate que la cantidad de **argumentos** y su orden importa! Los nombres también pero para las personas, no para las computadoras. :sweat_smile:
+En esta lección aprendimos cómo los **parámetros** facilitan nuestra tarea permitiéndonos crear procedimientos más genéricos. Cuidado al invocar estos procedimientos: ¡acuérdate de que la cantidad de **argumentos** y su orden importan! Los nombres también, pero para las personas, no para los computadores. :sweat_smile:

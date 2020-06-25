@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLineaNegra3
-  inspection: Uses:VolverAtras
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLineaNegra3
-  inspection: UsesRepeat
+  - !ruby 
+    binding: DibujarLineaNegra3
+    inspection: Uses:VolverAtras
+  - !ruby 
+    binding: DibujarLineaNegra3
+    inspection: UsesRepeat

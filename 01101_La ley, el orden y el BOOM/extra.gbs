@@ -3,5 +3,5 @@ procedure DibujarLinea3(color, direccion) {
   Mover(direccion)
   Poner(color)
   Mover(direccion)
-  Poner(color)
+  Mover(direccion)
 }

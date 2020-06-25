@@ -1,11 +1,11 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLinea3
-  inspection: HasArity:1
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLinea3
-  inspection: HasUsage:VolverAtras
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLinea3
-  inspection: UsesRepeat
+  - !ruby 
+    binding: DibujarLinea3
+    inspection: HasArity:1
+  - !ruby 
+    binding: DibujarLinea3
+    inspection: HasUsage:VolverAtras
+  - !ruby 
+    binding: DibujarLinea3
+    inspection: UsesRepeat

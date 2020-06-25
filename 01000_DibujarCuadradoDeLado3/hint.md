@@ -1,1 +1,1 @@
-Recordá que `DibujarLinea3` recibe un parámetro.
+Recuerda que `DibujarLinea3` recibe un parámetro.
