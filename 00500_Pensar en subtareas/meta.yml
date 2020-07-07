@@ -1,10 +1,11 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_bottom
 editor: code
 type: problem
 extra_visible: true
+teacher_info: ''
 manual_evaluation: false
-choices: [ ]
-name: Ingresar varios parámetros
+choices: []
+name: Pensar en subtareas

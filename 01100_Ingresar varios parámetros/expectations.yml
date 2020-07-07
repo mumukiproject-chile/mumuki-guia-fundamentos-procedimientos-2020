@@ -1,8 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLineaVerde3
-  inspection: HasUsage:VolverAtras
+  binding: DibujarLinea3
+  inspection: Not:HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarLineaVerde3
-  inspection: UsesRepeat
+  binding: program
+  inspection: HasUsage:DibujarLinea3

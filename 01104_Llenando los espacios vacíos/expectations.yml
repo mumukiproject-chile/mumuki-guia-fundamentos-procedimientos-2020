@@ -1,5 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: program
-    inspection: HasUsage:Poner3

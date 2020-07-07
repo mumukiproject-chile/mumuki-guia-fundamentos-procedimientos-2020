@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: DibujarLineaNegra3
-    inspection: Uses:VolverAtras
-  - !ruby 
-    binding: DibujarLineaNegra3
-    inspection: UsesRepeat

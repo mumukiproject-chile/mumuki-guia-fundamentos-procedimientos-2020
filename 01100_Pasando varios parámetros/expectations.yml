@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: DibujarLinea3
-    inspection: Not:HasBinding
-  - !ruby 
-    binding: program
-    inspection: HasUsage:DibujarLinea3

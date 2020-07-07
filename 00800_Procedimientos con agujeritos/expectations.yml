@@ -1,11 +1,11 @@
 ---
 expectations:
-  - !ruby 
-    binding: Poner3
-    inspection: HasBinding
-  - !ruby 
-    binding: program
-    inspection: HasUsage:Poner3
-  - !ruby 
-    binding: Poner3
-    inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Poner3
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: HasUsage:Poner3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Poner3
+  inspection: UsesRepeat

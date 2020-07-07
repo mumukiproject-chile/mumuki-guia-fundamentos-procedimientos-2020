@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Triada
-  inspection: HasArity:3
+  binding: program
+  inspection: HasUsage:Poner3

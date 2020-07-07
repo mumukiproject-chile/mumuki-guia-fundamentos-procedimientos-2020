@@ -1,11 +1,11 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarCuadradoDeLado3
-  inspection: HasArity:1
+  binding: DibujarCuadradoNegroDeLado3
+  inspection: HasUsage:DibujarLineaNegra3
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarCuadradoDeLado3
-  inspection: HasUsage:DibujarLinea3
+  binding: DibujarCuadradoNegroDeLado3
+  inspection: Not:HasUsage:VolverAtras
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarCuadradoDeLado3
+  binding: DibujarCuadradoNegroDeLado3
   inspection: UsesRepeat
