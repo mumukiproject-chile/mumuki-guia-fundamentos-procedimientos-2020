@@ -4,10 +4,24 @@ Para terminar esta lecciÃ³n vamos a definir un procedimiento llamado `Triada`, Â
 
 Por ejemplo: `Triada(Rojo, Azul, Verde)` nos da como tablero resultante:
 
-<gs-board> GBB/1.0 size 3 1 cell 0 0 Rojo 1 cell 1 0 Azul 1 cell 2 0 Verde 1 head 2 0 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 3 1 
+  cell 0 0 Rojo 1 
+  cell 1 0 Azul 1 
+  cell 2 0 Verde 1 
+  head 2 0 
+</gs-board>
 
 mientras que `Triada(Azul, Verde, Rojo)`:
 
-<gs-board> GBB/1.0 size 3 1 cell 0 0 Azul 1 cell 1 0 Verde 1 cell 2 0 Rojo 1 head 2 0 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 3 1 
+  cell 0 0 Azul 1 
+  cell 1 0 Verde 1 
+  cell 2 0 Rojo 1 
+  head 2 0 
+</gs-board>
 
 > Define el procedimiento `Triada`. 
