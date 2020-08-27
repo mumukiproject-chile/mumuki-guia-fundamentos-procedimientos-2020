@@ -28,6 +28,6 @@ Dividiendo cada parte del problema en procedimientos más pequeños, vamos a pla
 
 ¡Partamos por ahí! :muscle:
 
-> Escribe el procedimiento `DibujarLineaNegra3` que, como su nombre lo indica, _dibuje una línea_ poniendo 3 bolitas negras consecutivas hacia el este y dejando el cabezal donde comenzó. Invócalo en un `program`.
+> Define el procedimiento `DibujarLineaNegra3` que, como su nombre lo indica, _dibuje una línea_ poniendo 3 bolitas negras consecutivas hacia el este y dejando el cabezal donde comenzó. Invócalo en un `program`.
 > 
 > En la Biblioteca vas a encontrar el procedimiento `VolverAtras`. ¡Eso significa que puedes invocarlo sin tener que definirlo! :gift:
