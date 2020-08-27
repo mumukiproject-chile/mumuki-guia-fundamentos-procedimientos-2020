@@ -1,6 +1,6 @@
 Entendamos qué acabamos de hacer. :sweat_smile:
 
-Lo primero que hicimos fue declarar un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
+Lo primero que hicimos fue definir un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
 
 ```gobstones
 procedure Poner3(color) {
@@ -44,5 +44,5 @@ Poner(Rojo)
 
 Fíjate cómo, cada vez que aparece `color`, se reemplaza por el valor que le _dimos_ a `Poner` :raised_hands:. Veamos si se entiende:
 
-> Escribe un programa que ponga tres bolitas verdes usando el procedimiento `Poner3`.
+> Crea un programa que ponga tres bolitas verdes invocando el procedimiento `Poner3`.
 
